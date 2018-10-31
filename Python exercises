@@ -1,0 +1,5 @@
+for number in range(10):
+	print("GCI is great")
+name = input("What's your name? ")
+print("Hello! " + name + " please to meet you!")
+print("Did you know that if your name reversed it is "+name[::-1]+"?")
